@@ -1,0 +1,256 @@
+2021-03-10 12:28:27.824 [main] INFO  com.junction.CameraServerApplication - Starting CameraServerApplication on MacBook-Pro.local with PID 16783 (/Users/speix/Desktop/RTSPtoHTTP-FLV-master/target/classes started by speix in /Users/speix/Desktop/RTSPtoHTTP-FLV-master)
+2021-03-10 12:28:27.825 [main] INFO  com.junction.CameraServerApplication - No active profile set, falling back to default profiles: default
+2021-03-10 12:28:28.333 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8083 (http)
+2021-03-10 12:28:28.340 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2021-03-10 12:28:28.340 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-10 12:28:28.340 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2021-03-10 12:28:28.396 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/camera] - Initializing Spring embedded WebApplicationContext
+2021-03-10 12:28:28.396 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 550 ms
+2021-03-10 12:28:28.501 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-10 12:28:28.595 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2021-03-10 12:28:28.613 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8083 (http) with context path '/camera'
+2021-03-10 12:28:28.617 [main] INFO  com.junction.CameraServerApplication - Started CameraServerApplication in 1.063 seconds (JVM running for 7.707)
+2021-03-10 12:28:28.620 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:29:05.660 [http-nio-8083-exec-4] INFO  o.a.c.c.C.[Tomcat].[localhost].[/camera] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-10 12:29:05.661 [http-nio-8083-exec-4] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-03-10 12:29:05.665 [http-nio-8083-exec-4] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2021-03-10 12:29:28.623 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:30:28.624 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:31:28.625 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:32:28.628 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:33:28.632 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:34:28.635 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:34:29.272 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-10 12:34:29.272 [SpringContextShutdownHook] INFO  com.junction.CameraServerApplication - 服务结束，开始释放空间...
+2021-03-10 12:34:33.054 [main] INFO  com.junction.CameraServerApplication - Starting CameraServerApplication on MacBook-Pro.local with PID 16893 (/Users/speix/Desktop/RTSPtoHTTP-FLV-master/target/classes started by speix in /Users/speix/Desktop/RTSPtoHTTP-FLV-master)
+2021-03-10 12:34:33.056 [main] INFO  com.junction.CameraServerApplication - No active profile set, falling back to default profiles: default
+2021-03-10 12:34:33.687 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8083 (http)
+2021-03-10 12:34:33.695 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2021-03-10 12:34:33.696 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-10 12:34:33.696 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2021-03-10 12:34:33.759 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/camera] - Initializing Spring embedded WebApplicationContext
+2021-03-10 12:34:33.759 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 677 ms
+2021-03-10 12:34:33.877 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-10 12:34:33.975 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2021-03-10 12:34:33.994 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8083 (http) with context path '/camera'
+2021-03-10 12:34:33.997 [main] INFO  com.junction.CameraServerApplication - Started CameraServerApplication in 1.257 seconds (JVM running for 2.271)
+2021-03-10 12:34:34.000 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:35:34.001 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:36:34.007 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:37:34.007 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:38:34.008 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:39:34.012 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:40:27.029 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-10 12:40:27.030 [SpringContextShutdownHook] INFO  com.junction.CameraServerApplication - 服务结束，开始释放空间...
+2021-03-10 12:40:29.703 [main] INFO  com.junction.CameraServerApplication - Starting CameraServerApplication on MacBook-Pro.local with PID 16988 (/Users/speix/Desktop/RTSPtoHTTP-FLV-master/target/classes started by speix in /Users/speix/Desktop/RTSPtoHTTP-FLV-master)
+2021-03-10 12:40:29.705 [main] INFO  com.junction.CameraServerApplication - No active profile set, falling back to default profiles: default
+2021-03-10 12:40:30.222 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8083 (http)
+2021-03-10 12:40:30.229 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2021-03-10 12:40:30.229 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-10 12:40:30.229 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2021-03-10 12:40:30.288 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/camera] - Initializing Spring embedded WebApplicationContext
+2021-03-10 12:40:30.288 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 561 ms
+2021-03-10 12:40:30.403 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-10 12:40:30.503 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2021-03-10 12:40:30.522 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8083 (http) with context path '/camera'
+2021-03-10 12:40:30.526 [main] INFO  com.junction.CameraServerApplication - Started CameraServerApplication in 1.125 seconds (JVM running for 2.144)
+2021-03-10 12:40:30.530 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:41:19.601 [http-nio-8083-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/camera] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-10 12:41:19.602 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-03-10 12:41:19.606 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2021-03-10 12:41:19.619 [http-nio-8083-exec-1] INFO  com.junction.controller.CameraController - 获取服务信息：Config [keepalive=1, push_host=127.0.0.1, host_extra=127.0.0.1, push_port=1935, main_code=5120, sub_code=1024, version=@COMMIT_REV@.@BUILD_DATE@];服务运行时间：0h0m50s
+2021-03-10 12:41:30.535 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:41:41.359 [http-nio-8083-exec-2] INFO  com.junction.controller.CameraController - 获取服务信息：Config [keepalive=1, push_host=127.0.0.1, host_extra=127.0.0.1, push_port=1935, main_code=5120, sub_code=1024, version=@COMMIT_REV@.@BUILD_DATE@];服务运行时间：0h1m72s
+2021-03-10 12:41:52.745 [http-nio-8083-exec-3] INFO  com.junction.controller.CameraController - 获取视频流信息：{}
+2021-03-10 12:42:30.536 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:42:37.840 [http-nio-8083-exec-5] INFO  com.junction.controller.CameraController - 获取视频流信息：{}
+2021-03-10 12:42:38.354 [http-nio-8083-exec-6] INFO  com.junction.controller.CameraController - 获取视频流信息：{}
+2021-03-10 12:42:38.770 [http-nio-8083-exec-7] INFO  com.junction.controller.CameraController - 获取视频流信息：{}
+2021-03-10 12:43:29.223 [http-nio-8083-exec-6] INFO  com.junction.controller.CameraController - 获取视频流信息：{}
+2021-03-10 12:43:30.536 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:44:15.687 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-10 12:44:15.687 [SpringContextShutdownHook] INFO  com.junction.CameraServerApplication - 服务结束，开始释放空间...
+2021-03-10 12:44:24.503 [main] INFO  com.junction.CameraServerApplication - Starting CameraServerApplication on MacBook-Pro.local with PID 17093 (/Users/speix/Desktop/RTSPtoHTTP-FLV-master/target/classes started by speix in /Users/speix/Desktop/RTSPtoHTTP-FLV-master)
+2021-03-10 12:44:24.506 [main] INFO  com.junction.CameraServerApplication - No active profile set, falling back to default profiles: default
+2021-03-10 12:44:25.066 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8083 (http)
+2021-03-10 12:44:25.074 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2021-03-10 12:44:25.074 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-10 12:44:25.075 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2021-03-10 12:44:25.137 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/camera] - Initializing Spring embedded WebApplicationContext
+2021-03-10 12:44:25.139 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 599 ms
+2021-03-10 12:44:25.256 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-10 12:44:25.355 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2021-03-10 12:44:25.375 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8083 (http) with context path '/camera'
+2021-03-10 12:44:25.380 [main] INFO  com.junction.CameraServerApplication - Started CameraServerApplication in 1.224 seconds (JVM running for 2.295)
+2021-03-10 12:44:25.383 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:44:50.136 [http-nio-8083-exec-3] INFO  o.a.c.c.C.[Tomcat].[localhost].[/camera] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-10 12:44:50.136 [http-nio-8083-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-03-10 12:44:50.140 [http-nio-8083-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2021-03-10 12:44:50.153 [http-nio-8083-exec-3] INFO  com.junction.controller.CameraController - 获取服务信息：Config [keepalive=1, push_host=127.0.0.1, host_extra=127.0.0.1, push_port=1935, main_code=5120, sub_code=1024, version=@COMMIT_REV@.@BUILD_DATE@];服务运行时间：0h0m26s
+2021-03-10 12:45:08.675 [http-nio-8083-exec-4] INFO  com.junction.controller.CameraController - 获取视频流信息：{}
+2021-03-10 12:45:25.387 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:45:28.397 [http-nio-8083-exec-5] INFO  com.junction.controller.CameraController - 获取视频流信息：{}
+2021-03-10 12:45:28.917 [http-nio-8083-exec-6] INFO  com.junction.controller.CameraController - 获取视频流信息：{}
+2021-03-10 12:45:29.072 [http-nio-8083-exec-7] INFO  com.junction.controller.CameraController - 获取视频流信息：{}
+2021-03-10 12:45:39.115 [http-nio-8083-exec-9] INFO  com.junction.controller.CameraController - 获取视频流信息：{}
+2021-03-10 12:46:25.393 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:47:25.395 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:47:42.721 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-10 12:47:42.721 [SpringContextShutdownHook] INFO  com.junction.CameraServerApplication - 服务结束，开始释放空间...
+2021-03-10 12:47:45.292 [main] INFO  com.junction.CameraServerApplication - Starting CameraServerApplication on MacBook-Pro.local with PID 17172 (/Users/speix/Desktop/RTSPtoHTTP-FLV-master/target/classes started by speix in /Users/speix/Desktop/RTSPtoHTTP-FLV-master)
+2021-03-10 12:47:45.294 [main] INFO  com.junction.CameraServerApplication - No active profile set, falling back to default profiles: default
+2021-03-10 12:47:45.827 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8083 (http)
+2021-03-10 12:47:45.835 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2021-03-10 12:47:45.835 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-10 12:47:45.836 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2021-03-10 12:47:45.891 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/camera] - Initializing Spring embedded WebApplicationContext
+2021-03-10 12:47:45.891 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 574 ms
+2021-03-10 12:47:45.991 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-10 12:47:46.074 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2021-03-10 12:47:46.092 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8083 (http) with context path '/camera'
+2021-03-10 12:47:46.096 [main] INFO  com.junction.CameraServerApplication - Started CameraServerApplication in 1.079 seconds (JVM running for 2.041)
+2021-03-10 12:47:46.098 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:47:49.568 [http-nio-8083-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/camera] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-10 12:47:49.568 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-03-10 12:47:49.573 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2021-03-10 12:47:49.585 [http-nio-8083-exec-1] INFO  com.junction.controller.CameraController - 获取视频流信息：{}
+2021-03-10 12:47:50.059 [http-nio-8083-exec-2] INFO  com.junction.controller.CameraController - 获取视频流信息：{}
+2021-03-10 12:47:50.733 [http-nio-8083-exec-3] INFO  com.junction.controller.CameraController - 获取视频流信息：{}
+2021-03-10 12:47:51.318 [http-nio-8083-exec-4] INFO  com.junction.controller.CameraController - 获取视频流信息：{}
+2021-03-10 12:48:46.104 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:49:46.108 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:50:46.113 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:51:46.114 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:52:46.114 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:52:56.097 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-10 12:52:56.098 [SpringContextShutdownHook] INFO  com.junction.CameraServerApplication - 服务结束，开始释放空间...
+2021-03-10 12:52:58.538 [main] INFO  com.junction.CameraServerApplication - Starting CameraServerApplication on MacBook-Pro.local with PID 17256 (/Users/speix/Desktop/RTSPtoHTTP-FLV-master/target/classes started by speix in /Users/speix/Desktop/RTSPtoHTTP-FLV-master)
+2021-03-10 12:52:58.540 [main] INFO  com.junction.CameraServerApplication - No active profile set, falling back to default profiles: default
+2021-03-10 12:52:59.078 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8083 (http)
+2021-03-10 12:52:59.086 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2021-03-10 12:52:59.086 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-10 12:52:59.087 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2021-03-10 12:52:59.145 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/camera] - Initializing Spring embedded WebApplicationContext
+2021-03-10 12:52:59.145 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 582 ms
+2021-03-10 12:52:59.256 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-10 12:52:59.346 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2021-03-10 12:52:59.363 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8083 (http) with context path '/camera'
+2021-03-10 12:52:59.367 [main] INFO  com.junction.CameraServerApplication - Started CameraServerApplication in 1.1 seconds (JVM running for 1.94)
+2021-03-10 12:52:59.369 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:53:04.440 [http-nio-8083-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/camera] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-10 12:53:04.440 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-03-10 12:53:04.444 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2021-03-10 12:53:04.458 [http-nio-8083-exec-1] INFO  com.junction.controller.CameraController - 获取视频流信息：{}
+2021-03-10 12:53:05.047 [http-nio-8083-exec-2] INFO  com.junction.controller.CameraController - 获取视频流信息：{}
+2021-03-10 12:53:05.316 [http-nio-8083-exec-3] INFO  com.junction.controller.CameraController - 获取视频流信息：{}
+2021-03-10 12:53:05.488 [http-nio-8083-exec-4] INFO  com.junction.controller.CameraController - 获取视频流信息：{}
+2021-03-10 12:53:05.657 [http-nio-8083-exec-5] INFO  com.junction.controller.CameraController - 获取视频流信息：{}
+2021-03-10 12:53:05.878 [http-nio-8083-exec-6] INFO  com.junction.controller.CameraController - 获取视频流信息：{}
+2021-03-10 12:53:59.372 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:54:59.377 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:55:59.380 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:56:59.381 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:57:59.382 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:58:59.385 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 12:59:59.388 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:00:59.390 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:01:59.398 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:02:59.410 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:03:59.421 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:04:59.430 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:05:59.436 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:06:59.446 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:07:59.447 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:08:59.454 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:09:59.463 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:10:59.471 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:11:59.472 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:12:59.474 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:13:59.478 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:14:59.479 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:15:59.484 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:16:59.487 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:17:59.487 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:18:59.488 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:19:59.491 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:20:59.491 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:21:59.493 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:22:59.498 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:23:59.502 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:24:59.507 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:25:59.508 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:26:59.509 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:27:59.510 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:28:59.514 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:29:59.517 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:30:59.517 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:31:59.519 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:32:59.519 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:33:59.520 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:34:59.525 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:35:59.526 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:36:59.532 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:37:59.535 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:38:59.537 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:39:59.541 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:40:59.541 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:41:59.545 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:42:59.546 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:43:59.549 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:44:59.550 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:45:59.551 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:46:59.553 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:47:59.554 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:48:59.554 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:49:59.558 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:50:59.559 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:51:59.562 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:52:59.563 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:53:59.563 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:54:59.565 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:55:59.568 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:56:59.571 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:57:59.572 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:58:59.572 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 13:59:59.575 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:00:59.581 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:01:59.586 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:02:59.587 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:03:59.587 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:04:59.592 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:05:59.600 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:06:59.603 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:07:59.608 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:08:59.608 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:09:59.611 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:10:59.616 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:11:59.619 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:12:59.621 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:13:59.626 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:14:59.627 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:15:59.627 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:16:59.633 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:17:59.636 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:18:59.637 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:19:59.639 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:20:59.640 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:21:59.645 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:22:59.646 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:23:59.646 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:24:59.651 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:25:59.653 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:26:59.658 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:27:59.658 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:28:59.663 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:29:59.669 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:30:59.670 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:31:59.671 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:32:59.673 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:33:59.677 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:34:59.682 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:35:59.684 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:36:59.685 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:37:59.685 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:38:59.689 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-10 14:39:16.927 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-10 14:39:16.927 [SpringContextShutdownHook] INFO  com.junction.CameraServerApplication - 服务结束，开始释放空间...

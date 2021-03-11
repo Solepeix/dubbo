@@ -1,0 +1,25 @@
+2021-03-11 18:05:52.876 [main] INFO  com.junction.CameraServerApplication - Starting CameraServerApplication on MacBook-Pro.local with PID 3254 (/Users/speix/Desktop/RTSPtoHTTP-FLV-master/target/classes started by speix in /Users/speix/Desktop/RTSPtoHTTP-FLV-master)
+2021-03-11 18:05:52.878 [main] INFO  com.junction.CameraServerApplication - No active profile set, falling back to default profiles: default
+2021-03-11 18:05:53.612 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8083 (http)
+2021-03-11 18:05:53.623 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2021-03-11 18:05:53.623 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-11 18:05:53.623 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2021-03-11 18:05:53.707 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/camera] - Initializing Spring embedded WebApplicationContext
+2021-03-11 18:05:53.708 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 794 ms
+2021-03-11 18:05:53.849 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-11 18:05:53.994 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2021-03-11 18:05:54.014 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8083 (http) with context path '/camera'
+2021-03-11 18:05:54.018 [main] INFO  com.junction.CameraServerApplication - Started CameraServerApplication in 1.707 seconds (JVM running for 3.047)
+2021-03-11 18:05:54.021 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-11 18:06:29.821 [http-nio-8083-exec-4] INFO  o.a.c.c.C.[Tomcat].[localhost].[/camera] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-11 18:06:29.822 [http-nio-8083-exec-4] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-03-11 18:06:29.827 [http-nio-8083-exec-4] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2021-03-11 18:06:38.556 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-11 18:06:38.556 [SpringContextShutdownHook] INFO  com.junction.CameraServerApplication - 服务结束，开始释放空间...
+2021-03-11 18:11:20.837 [main] INFO  com.junction.CameraServerApplicationTests - Starting CameraServerApplicationTests on MacBook-Pro.local with PID 3360 (started by speix in /Users/speix/Desktop/RTSPtoHTTP-FLV-master)
+2021-03-11 18:11:20.839 [main] INFO  com.junction.CameraServerApplicationTests - No active profile set, falling back to default profiles: default
+2021-03-11 18:11:21.871 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-11 18:11:22.167 [main] INFO  com.junction.CameraServerApplicationTests - Started CameraServerApplicationTests in 1.912 seconds (JVM running for 2.842)
+2021-03-11 18:11:22.171 [timeTimer] INFO  com.junction.timer.CameraTimer - 定时任务  当前有0个推流任务正在进行推流
+2021-03-11 18:11:22.589 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-11 18:11:22.590 [SpringContextShutdownHook] INFO  com.junction.CameraServerApplication - 服务结束，开始释放空间...
